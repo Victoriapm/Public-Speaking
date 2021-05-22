@@ -1,5 +1,5 @@
-# Talks
-Slides and documentation for the talks I have given.
+# Public speaking material
+Slides and other materials from my public speaking engagements.
 
 | Date       | Topic                                    | Location                                                                                          | Links                 |
 |------------|------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------|
