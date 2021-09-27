@@ -10,4 +10,5 @@ Slides and other materials from my public speaking engagements.
 | Jun 2021   | How I became an Analytics Engineer | [Women in tech global conference](https://www.womentech.net/en-de/speaker/Victoria/Perez%20Mola/57243) |                                             |
 | Jun 2021   | Analytics Engineer: New Role in a Data Team | [Datatalks.club](https://www.eventbrite.de/e/analytics-engineer-new-role-in-a-data-team-tickets-153419478791) |                   [Podcast video](https://www.youtube.com/watch?v=C5UcxBwdCEg)       |
 | Aug 2021   | Taller de análisis de datos para principiantes | [Cientificas de datos Bolivia](https://www.instagram.com/p/CSdMY59rQoX//) | [Repo](https://github.com/organidata/analisis-datos-principiantes)/[video](https://fb.watch/7pb8XsOZpa/)|
-| Sep 2021   | DBT-in-Practice Workshop  | [Dat0s](https://www.linkedin.com/company/dat0s-org) | [GitHub Repo](https://github.com/Victoriapm/dbt-basics-workshop)|  
+| Sep 2021   | DBT-in-Practice Workshop  | [Dat0s](https://www.linkedin.com/company/dat0s-org) | [GitHub Repo](https://github.com/Victoriapm/dbt-basics-workshop)| 
+| Sep 2021   | Expanding the Data Team: Analytics Engineers  | [Big data conference Europe](https://bigdataconference.eu/) | [Slides](https://github.com/Victoriapm/Public-Speaking/blob/master/Expanding%20the%20Data%20Team_%20Analytics%20Engineers.pptx.pdf)| 
