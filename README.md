@@ -12,3 +12,7 @@ Slides and other materials from my public speaking engagements.
 | Aug 2021   | Taller de análisis de datos para principiantes | [Cientificas de datos Bolivia](https://www.instagram.com/p/CSdMY59rQoX//) | [Repo](https://github.com/organidata/analisis-datos-principiantes)/[video](https://fb.watch/7pb8XsOZpa/)|
 | Sep 2021   | DBT-in-Practice Workshop  | [Dat0s](https://www.linkedin.com/company/dat0s-org) | [GitHub Repo](https://github.com/Victoriapm/dbt-basics-workshop)| 
 | Sep 2021   | Expanding the Data Team: Analytics Engineers  | [Big data conference Europe](https://bigdataconference.eu/) | [Slides](https://github.com/Victoriapm/Public-Speaking/blob/master/Expanding%20the%20Data%20Team_%20Analytics%20Engineers.pptx.pdf)/[video](https://www.youtube.com/watch?v=nxy3yqe_6Xs&list=PLqYhGsQ9iSEqHwbQoWEXEJALFLKVDRXiP&index=11)| 
+| Jan - Apr 2022   | Data engineering Zoomcap  | [Data Talks Club](https://datatalks.club/) | [Repo](https://github.com/DataTalksClub/data-engineering-zoomcamp)/[videos](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)| 
+| Mar 2022   | The role of dbt in Analytics Engineering  | [The BAD meetup](https://www.meetup.com/The-BAD-meetup-Business-And-Data/events/284655996/) | [Slides](https://docs.google.com/presentation/d/1jwwKcqfjifqq7yV_TAaVGwRjA6jEfztJ3j4Iu1JuFF8/edit?usp=sharing)| 
+
+
